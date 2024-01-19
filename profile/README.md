@@ -6,6 +6,6 @@ Quantum Application development and use-case evaluation for organizations with c
 
 🎯 [vqls-prototype](https://github.com/quantumapplicationlab/vqls-prototype) Variational quantum Linear solver routine for qiskit
 
-📡 [QuantumRadioAstronomy](https://github.com/QuantumRadioAstronomy) Quantum Computing for radio astronomy pipelines developed by QAL and ASRON
+📡 [QuantumRadioAstronomy](https://github.com/QuantumRadioAstronomy) Quantum Computing for radio astronomy pipelines developed by QAL and ASTRON
 
 More info : [quantumapplicationlab.com](https://quantumapplicationlab.com/)
