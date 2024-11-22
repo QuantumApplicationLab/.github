@@ -6,21 +6,21 @@ Quantum Application development and use-case evaluation for organizations with c
 
 ----------------------------------------------------
 
-🎯 [vqls-prototype](https://github.com/quantumapplicationlab/vqls-prototype) Variational quantum Linear solver routine for qiskit
+🎯 [vqls-prototype](https://github.com/quantumapplicationlab/vqls-prototype) Variational quantum linear solver using  qiskit
 
-🎢 [qubols](https://github.com/quantumapplicationlab/qubols) QUBO Linear Solver using D'Wave toolkit
+🎢 [qubols](https://github.com/quantumapplicationlab/qubols) QUBO linear solver using D'Wave toolkit
 
-🎰 [qubops](https://github.com/quantumapplicationlab/qubops) QUBO Polynomial Solver using D'Wave toolkit
+🎰 [qubops](https://github.com/quantumapplicationlab/qubops) QUBO Ppolynomial solver using D'Wave toolkit
 
-🚀[HHL-prototype](https://github.com/quantumapplicationlab/hhl-prototype) HHL Linear solver
+🚀[HHL-prototype](https://github.com/quantumapplicationlab/hhl-prototype) HHL linear solver using qiskit
 
 ----------------------------------------------------
 
-⚗️[QC2NL](https://github.com/qc2nl) Quantum Computing for Quantum Chemistry developped by QAL, SURF and the VU
+⚗️[QC2NL](https://github.com/qc2nl) Quantum computing for quantum chemistry developped by QAL, SURF and the VU
 
-📡 [QuantumRadioAstronomy](https://github.com/QuantumRadioAstronomy) Quantum Computing for radio astronomy pipelines developed by QAL and ASTRON
+📡 [QuantumRadioAstronomy](https://github.com/QuantumRadioAstronomy) Quantum computing for radio astronomy pipelines developed by QAL and ASTRON
 
-🚿 [wntr-quantum](https://github.com/quantumapplicationlab/wntr-quantum) Quantum Computing for Water Network Simulations 
+🚿 [wntr-quantum](https://github.com/quantumapplicationlab/wntr-quantum) Quantum computing for water network simulations developed by QAL and Vitens
 
 ------------------------------------------------------
 
