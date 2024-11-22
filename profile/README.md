@@ -8,7 +8,9 @@ Quantum Application development and use-case evaluation for organizations with c
 
 🎯 [vqls-prototype](https://github.com/quantumapplicationlab/vqls-prototype) Variational quantum Linear solver routine for qiskit
 
-🎢 [QUBOls](https://github.com/quantumapplicationlab/qubols) Linear Solver Using QUBO on D'Wave System
+🎢 [qubols](https://github.com/quantumapplicationlab/qubols) QUBO Linear Solver using D'Wave toolkit
+
+🎢 [qubolps](https://github.com/quantumapplicationlab/qubops) QUBO Polynomial Solver using D'Wave toolkit
 
 🚀[HHL-prototype](https://github.com/quantumapplicationlab/hhl-prototype) HHL Linear solver
 
