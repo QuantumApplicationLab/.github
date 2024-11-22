@@ -18,6 +18,8 @@ Quantum Application development and use-case evaluation for organizations with c
 
 📡 [QuantumRadioAstronomy](https://github.com/QuantumRadioAstronomy) Quantum Computing for radio astronomy pipelines developed by QAL and ASTRON
 
+🚿 [wntr-quantum](https://github.com/quantumapplicationlab/wntr-quantum] Quantum Computing for Water Network Simulations 
+
 ------------------------------------------------------
 
 More info : [quantumapplicationlab.com](https://quantumapplicationlab.com/)
