@@ -15,7 +15,7 @@ Quantum Application development and use-case evaluation for organizations with c
 
 🚀[HHL-prototype](https://github.com/quantumapplicationlab/hhl-prototype) HHL linear solver using qiskit
 
-🗃️ [qreorder](https://github.com/quantumapplicationlab/qreoder) Sparse matrix reordering using quantum computers
+🗃️ [qreorder](https://github.com/quantumapplicationlab/qreorder) Sparse matrix reordering using quantum computers
 
 🧮[Quantum Newton-Raphson](https://github.com/quantumapplicationlab/QuantumNewtonRaphson) Newton-Raphson algorithm offloading the gradient to quantum computers
 
