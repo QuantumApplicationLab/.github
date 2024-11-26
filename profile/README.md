@@ -10,7 +10,7 @@ Quantum Application development and use-case evaluation for organizations with c
 
 🎢 [qubols](https://github.com/quantumapplicationlab/qubols) QUBO linear solver using D'Wave toolkit
 
-🎰 [qubops](https://github.com/quantumapplicationlab/qubops) QUBO Ppolynomial solver using D'Wave toolkit
+🎰 [qubops](https://github.com/quantumapplicationlab/qubops) QUBO polynomial solver using D'Wave toolkit
 
 🚀[HHL-prototype](https://github.com/quantumapplicationlab/hhl-prototype) HHL linear solver using qiskit
 
