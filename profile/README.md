@@ -1,5 +1,4 @@
-# QAL
-![Generated with Freepik](qal_front.jpeg)
+![Quantum Application Lab](qal_logo.png)
 Quantum Application development and use-case evaluation for organizations with computational challenges in opimization, simulations and machine learning 
 
 💎 [qalcore](https://github.com/quantumapplicationlab/qalcore) The generic reusable library of quantum routines developped and maintained by the Quantum Application Lab
