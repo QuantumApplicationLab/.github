@@ -1,11 +1,11 @@
 ![Quantum Application Lab](qal_logo.png)
+<h1 align="center">
+Quantum application development and use-case evaluation for organizations with computational challenges in optimization, simulation and machine learning 
+</h1>
 
-Quantum Application development and use-case evaluation for organizations with computational challenges in opimization, simulations and machine learning 
-
-💎 [qalcore](https://github.com/quantumapplicationlab/qalcore) The generic reusable library of quantum routines developped and maintained by the Quantum Application Lab
-
--------------------------------------
+--------------------------------------
 #### Generic Libraries
+
 
 🎯 [vqls-prototype](https://github.com/quantumapplicationlab/vqls-prototype) Variational quantum linear solver using  qiskit
 
@@ -20,7 +20,7 @@ Quantum Application development and use-case evaluation for organizations with c
 🧮[Quantum Newton-Raphson](https://github.com/quantumapplicationlab/QuantumNewtonRaphson) Newton-Raphson algorithm offloading the gradient to quantum computers
 
 ----------------------------------------------------
-#### Application Libraries
+#### Application Specific Libraries
 
 ⚗️[QC2NL](https://github.com/qc2nl) Quantum computing for quantum chemistry developped by QAL, SURF and the VU
 
