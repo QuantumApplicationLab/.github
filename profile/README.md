@@ -4,7 +4,7 @@ Quantum application development and use-case evaluation for organizations with c
 </h1>
 
 --------------------------------------
-#### Generic Libraries
+### Generic Libraries
 
 
 🎯 [vqls-prototype](https://github.com/quantumapplicationlab/vqls-prototype) Variational quantum linear solver using  qiskit
@@ -20,7 +20,7 @@ Quantum application development and use-case evaluation for organizations with c
 🧮[Quantum Newton-Raphson](https://github.com/quantumapplicationlab/QuantumNewtonRaphson) Newton-Raphson algorithm offloading the gradient to quantum computers
 
 ----------------------------------------------------
-#### Application Specific Libraries
+### Application Specific Libraries
 
 ⚗️[QC2NL](https://github.com/qc2nl) Quantum computing for quantum chemistry developped by QAL, SURF and the VU
 
