@@ -13,7 +13,7 @@ Quantum application development and use-case evaluation for organizations with c
 
 🎰 [qubops](https://github.com/quantumapplicationlab/qubops) QUBO polynomial solver using D'Wave toolkit
 
-🚀[HHL-prototype](https://github.com/quantumapplicationlab/hhl-prototype) HHL linear solver using qiskit
+🚀[hhl-prototype](https://github.com/quantumapplicationlab/hhl-prototype) HHL linear solver using qiskit
 
 🗃️ [qreorder](https://github.com/quantumapplicationlab/qreorder) Sparse matrix reordering using quantum computers
 
