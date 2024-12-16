@@ -22,11 +22,11 @@ Quantum application development and use-case evaluation for organizations with c
 ----------------------------------------------------
 ### Application Specific Libraries
 
-⚗️[QC2NL](https://github.com/qc2nl) Quantum computing for quantum chemistry developped by QAL, SURF and the VU
+⚗️[QC2NL](https://github.com/qc2nl) Quantum computing for **quantum chemistry** developped by QAL, SURF and the VU
 
-📡 [QuantumRadioAstronomy](https://github.com/QuantumRadioAstronomy) Quantum computing for radio astronomy pipelines developed by QAL and ASTRON
+📡 [QuantumRadioAstronomy](https://github.com/QuantumRadioAstronomy) Quantum computing for **radio astronomy** pipelines developed by QAL and ASTRON
 
-🚿 [wntr-quantum](https://github.com/quantumapplicationlab/wntr-quantum) Quantum computing for water network simulations developed by QAL and Vitens
+🚿 [wntr-quantum](https://github.com/quantumapplicationlab/wntr-quantum) Quantum computing for **water network simulation**s developed by QAL and Vitens
 
 ------------------------------------------------------
 
