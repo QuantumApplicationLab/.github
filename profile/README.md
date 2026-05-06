@@ -4,9 +4,9 @@ Quantum application development and use-case evaluation for organizations with c
 </h1>
 
 --------------------------------------
-Disclaimer: The QAL collaboration has come to an end. As a result, this repository will no longer be actively maintained. 
+**Disclaimer: The QAL collaboration has come to an end. As a result, this repository will no longer be actively maintained. 
 For a full press release on the finished collaboration, see here.
-For questions about the repository, message one of the page admins.
+For questions about the repository, message one of the page admins.**
 
 ### Generic Libraries
 
